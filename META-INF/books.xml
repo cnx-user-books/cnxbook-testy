@@ -1,0 +1,3 @@
+<container xmlns="https://openstax.org/namespaces/book-container" version="1">
+    <book slug="testy" collection-id="col12100" href="../collections/testy.collection.xml" />
+</container>
